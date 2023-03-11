@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calclatur</string>
+    <string name="binary_name">BIN</string>
+    <string name="decimal_name">DEC</string>
+    <string name="octal_name">OCT</string>
+    <string name="hexadecimal_name">HIX</string>
+    <string name="title">Welcome</string>
+</resources>
